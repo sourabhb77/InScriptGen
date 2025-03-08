@@ -1,1 +1,0 @@
-# entity-insert-script-gen
